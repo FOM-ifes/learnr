@@ -164,20 +164,20 @@ Die Abbildungen stammen von von [\@allisonhorst](https://github.com/allisonhorst
 
 Es liegen Daten von diesen Drachen vor, und die Regressiongleichung wurde geschätzt ...
 
-![](https://github.com/allisonhorst/stats-illustrations/raw/master/other-stats-artwork/dragons.png){width=80%}
+![](www/dragons.png){width=60%}
 
 Für die kategoriale, erklärende Variable gilt:
 
-![](https://github.com/allisonhorst/stats-illustrations/raw/master/other-stats-artwork/dragon_regression.png){width=80%}
+![](www/dragon_regression.png){width=60%}
 
 Und für die numerische, erklärende:
 
-![](https://github.com/allisonhorst/stats-illustrations/raw/master/other-stats-artwork/dragons_continuous.png){width=80%}
+![](www/dragons_continuous.png){width=60%}
 
 Die Vorhersagen aus dem Modell werden dann wie folgt berechnet:
 
-![](https://github.com/allisonhorst/stats-illustrations/raw/master/other-stats-artwork/dragon_predict_mlr.png){width=80%}
+![](www/dragon_predict_mlr.png){width=60%}
 
 Und die Residuen sind die Differenzen zwischen den beobachteten und modellierten bzw. vorhergesagten Werten:
 
-![](https://github.com/allisonhorst/stats-illustrations/raw/master/other-stats-artwork/dragon_residual.png){width=80%}
+![](www/dragon_residual.png){width=60%}
